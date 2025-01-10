@@ -1,4 +1,4 @@
-# VPC-Peering-and-Logging
+# VPC-Peering
 ## Architecture
 ![VPC PC Arch](https://github.com/user-attachments/assets/b1daeada-2802-41f5-bcbf-9c6def9f20f5)
 
