@@ -12,7 +12,7 @@ This VPC is for App Server.
 3. Choose number of public subnets and click on create.
 4. Crreate another VPC for Web Server in different availability zone.
 
- Navigate to 'Security Group' and allow "all traffic" for Inbound Rules.
+Navigate to 'Security Group' and allow "all traffic" for Inbound Rules.
 ![3](https://github.com/user-attachments/assets/5806c2c2-d678-465e-8c4d-12909f8c0ea7)
 ![5 Web](https://github.com/user-attachments/assets/ba37f019-fce7-4197-a723-8b67731a789e)
 
